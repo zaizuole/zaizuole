@@ -1,6 +1,10 @@
 
 ### AI 编程用量
 
-[![tokens](https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=95982cae-5bb5-48dd-b67e-04ed3728ff92&metric=tokens)](https://github.com/mm7894215/TokenTracker)
-[![cost](https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=95982cae-5bb5-48dd-b67e-04ed3728ff92&metric=cost)](https://github.com/mm7894215/TokenTracker)
-[![rank](https://srctyff5.us-east.insforge.app/functions/tokentracker-badge-svg?user_id=95982cae-5bb5-48dd-b67e-04ed3728ff92&metric=rank)](https://github.com/mm7894215/TokenTracker)
+<!-- tokentracker-usage:start -->
+[![tokens](assets/tokentracker/tokens.svg)](https://github.com/zaizuole/TokenTracker)
+[![estimated cost](assets/tokentracker/cost.svg)](https://github.com/zaizuole/zaizuole/blob/main/data/tokentracker/summary.json)
+
+本机 TokenTracker 队列汇总，日期按 Asia/Shanghai。费用按模型单价估算，不是服务商实际扣款。单机数据，不含排名。部分模型没有单价，对应用量没有被估成费用。
+内容更新时间：2026-11-12T15:55:38+08:00。累计 57.2B tokens，估算 $27650。今日 331M tokens，估算 $63.54。
+<!-- tokentracker-usage:end -->
