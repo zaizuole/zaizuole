@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" role="img" aria-labelledby="cost-badge">
-<title id="cost-badge">cost: $28312 est</title>
+<title id="cost-badge">cost: $28313 est</title>
 <linearGradient id="cost-badge-shade" x2="0" y2="100%">
 <stop offset="0" stop-color="#fff" stop-opacity=".12"/>
 <stop offset="1" stop-opacity=".12"/>
@@ -13,6 +13,6 @@
 </g>
 <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
 <text x="23" y="14">cost</text>
-<text x="88" y="14">$28312 est</text>
+<text x="88" y="14">$28313 est</text>
 </g>
 </svg>
