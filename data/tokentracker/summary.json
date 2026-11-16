@@ -15,16 +15,16 @@
         "unpriced_total_tokens": 0
       },
       {
-        "billable_total_tokens": 28210902114,
+        "billable_total_tokens": 28212171613,
         "cache_creation_input_tokens": 0,
-        "cached_input_tokens": 26904409607,
-        "conversation_count": 186362,
-        "estimated_cost_usd": "15952.543607",
-        "input_tokens": 1362555264,
-        "output_tokens": 89971425,
-        "reasoning_output_tokens": 34740163,
+        "cached_input_tokens": 26905475079,
+        "conversation_count": 186390,
+        "estimated_cost_usd": "15953.133816",
+        "input_tokens": 1362749840,
+        "output_tokens": 89980876,
+        "reasoning_output_tokens": 34740772,
         "source": "codex",
-        "total_tokens": 28210902114,
+        "total_tokens": 28212171613,
         "unpriced_total_tokens": 5782121
       },
       {
@@ -55,20 +55,20 @@
       }
     ],
     "totals": {
-      "billable_total_tokens": 58433903439,
+      "billable_total_tokens": 58435172938,
       "cache_creation_input_tokens": 792282483,
-      "cached_input_tokens": 54487644293,
-      "conversation_count": 290613,
-      "estimated_cost_usd": "28686.968885",
-      "input_tokens": 3028172847,
-      "output_tokens": 270858212,
-      "reasoning_output_tokens": 35719949,
-      "total_tokens": 58433903439,
+      "cached_input_tokens": 54488709765,
+      "conversation_count": 290641,
+      "estimated_cost_usd": "28687.559094",
+      "input_tokens": 3028367423,
+      "output_tokens": 270867663,
+      "reasoning_output_tokens": 35720558,
+      "total_tokens": 58435172938,
       "unpriced_total_tokens": 4080898897
     }
   },
-  "content_sha256": "724433e497bff2b4425111abe950c80945c77c409612b78f5ea25cc7ac63cdd3",
-  "content_updated_at": "2026-11-17T03:25:58+08:00",
+  "content_sha256": "abe7e04e237525700543813da4de053e6ffd5c01fa134032562f82d9d1032132",
+  "content_updated_at": "2026-11-17T03:41:29+08:00",
   "cost": {
     "kind": "estimate",
     "note": "Sum of TokenTracker computeRowCost. Not an invoice. Unpriced models add 0 and increment unpriced_total_tokens."
@@ -85,29 +85,29 @@
   "today_usage": {
     "sources": [
       {
-        "billable_total_tokens": 17750965,
+        "billable_total_tokens": 19020464,
         "cache_creation_input_tokens": 0,
-        "cached_input_tokens": 14754944,
-        "conversation_count": 350,
-        "estimated_cost_usd": "8.533560",
-        "input_tokens": 2862768,
-        "output_tokens": 133253,
-        "reasoning_output_tokens": 9663,
+        "cached_input_tokens": 15820416,
+        "conversation_count": 378,
+        "estimated_cost_usd": "9.123770",
+        "input_tokens": 3057344,
+        "output_tokens": 142704,
+        "reasoning_output_tokens": 10272,
         "source": "codex",
-        "total_tokens": 17750965,
+        "total_tokens": 19020464,
         "unpriced_total_tokens": 0
       }
     ],
     "totals": {
-      "billable_total_tokens": 17750965,
+      "billable_total_tokens": 19020464,
       "cache_creation_input_tokens": 0,
-      "cached_input_tokens": 14754944,
-      "conversation_count": 350,
-      "estimated_cost_usd": "8.533560",
-      "input_tokens": 2862768,
-      "output_tokens": 133253,
-      "reasoning_output_tokens": 9663,
-      "total_tokens": 17750965,
+      "cached_input_tokens": 15820416,
+      "conversation_count": 378,
+      "estimated_cost_usd": "9.123770",
+      "input_tokens": 3057344,
+      "output_tokens": 142704,
+      "reasoning_output_tokens": 10272,
+      "total_tokens": 19020464,
       "unpriced_total_tokens": 0
     }
   }
