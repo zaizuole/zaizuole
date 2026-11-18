@@ -734,6 +734,36 @@
         "total_tokens": 699106883,
         "unpriced_total_tokens": 0
       }
+    },
+    {
+      "day": "2026-11-19",
+      "sources": [
+        {
+          "billable_total_tokens": 1200098,
+          "cache_creation_input_tokens": 0,
+          "cached_input_tokens": 1196032,
+          "conversation_count": 5,
+          "estimated_cost_usd": "0.133711",
+          "input_tokens": 3319,
+          "output_tokens": 747,
+          "reasoning_output_tokens": 0,
+          "source": "codex",
+          "total_tokens": 1200098,
+          "unpriced_total_tokens": 0
+        }
+      ],
+      "totals": {
+        "billable_total_tokens": 1200098,
+        "cache_creation_input_tokens": 0,
+        "cached_input_tokens": 1196032,
+        "conversation_count": 5,
+        "estimated_cost_usd": "0.133711",
+        "input_tokens": 3319,
+        "output_tokens": 747,
+        "reasoning_output_tokens": 0,
+        "total_tokens": 1200098,
+        "unpriced_total_tokens": 0
+      }
     }
   ],
   "device_scope": "this-mac-queue",
