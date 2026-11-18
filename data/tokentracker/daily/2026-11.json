@@ -699,7 +699,7 @@
           "billable_total_tokens": 153405897,
           "cache_creation_input_tokens": 6392351,
           "cached_input_tokens": 146733844,
-          "conversation_count": 44,
+          "conversation_count": 45,
           "estimated_cost_usd": "65.863869",
           "input_tokens": 18473,
           "output_tokens": 205274,
@@ -709,30 +709,30 @@
           "unpriced_total_tokens": 0
         },
         {
-          "billable_total_tokens": 150371584,
+          "billable_total_tokens": 155956955,
           "cache_creation_input_tokens": 0,
-          "cached_input_tokens": 135347200,
-          "conversation_count": 2038,
-          "estimated_cost_usd": "44.996502",
-          "input_tokens": 14299259,
-          "output_tokens": 725125,
-          "reasoning_output_tokens": 75094,
+          "cached_input_tokens": 140188672,
+          "conversation_count": 2102,
+          "estimated_cost_usd": "48.241881",
+          "input_tokens": 15022196,
+          "output_tokens": 746087,
+          "reasoning_output_tokens": 76908,
           "source": "codex",
-          "total_tokens": 150371584,
-          "unpriced_total_tokens": 17185953
+          "total_tokens": 155956955,
+          "unpriced_total_tokens": 21070929
         }
       ],
       "totals": {
-        "billable_total_tokens": 303777481,
+        "billable_total_tokens": 309362852,
         "cache_creation_input_tokens": 6392351,
-        "cached_input_tokens": 282081044,
-        "conversation_count": 2082,
-        "estimated_cost_usd": "110.860371",
-        "input_tokens": 14317732,
-        "output_tokens": 930399,
-        "reasoning_output_tokens": 131049,
-        "total_tokens": 303777481,
-        "unpriced_total_tokens": 17185953
+        "cached_input_tokens": 286922516,
+        "conversation_count": 2147,
+        "estimated_cost_usd": "114.105750",
+        "input_tokens": 15040669,
+        "output_tokens": 951361,
+        "reasoning_output_tokens": 132863,
+        "total_tokens": 309362852,
+        "unpriced_total_tokens": 21070929
       }
     }
   ],
