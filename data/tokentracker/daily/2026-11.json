@@ -868,29 +868,29 @@
       "day": "2026-11-22",
       "sources": [
         {
-          "billable_total_tokens": 65041855,
+          "billable_total_tokens": 67698546,
           "cache_creation_input_tokens": 0,
-          "cached_input_tokens": 63930752,
-          "conversation_count": 105,
-          "estimated_cost_usd": "9.009593",
-          "input_tokens": 1061814,
-          "output_tokens": 49289,
+          "cached_input_tokens": 66583552,
+          "conversation_count": 110,
+          "estimated_cost_usd": "9.288663",
+          "input_tokens": 1064954,
+          "output_tokens": 50040,
           "reasoning_output_tokens": 668,
           "source": "codex",
-          "total_tokens": 65041855,
+          "total_tokens": 67698546,
           "unpriced_total_tokens": 0
         }
       ],
       "totals": {
-        "billable_total_tokens": 65041855,
+        "billable_total_tokens": 67698546,
         "cache_creation_input_tokens": 0,
-        "cached_input_tokens": 63930752,
-        "conversation_count": 105,
-        "estimated_cost_usd": "9.009593",
-        "input_tokens": 1061814,
-        "output_tokens": 49289,
+        "cached_input_tokens": 66583552,
+        "conversation_count": 110,
+        "estimated_cost_usd": "9.288663",
+        "input_tokens": 1064954,
+        "output_tokens": 50040,
         "reasoning_output_tokens": 668,
-        "total_tokens": 65041855,
+        "total_tokens": 67698546,
         "unpriced_total_tokens": 0
       }
     }
