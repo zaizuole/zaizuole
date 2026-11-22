@@ -868,29 +868,42 @@
       "day": "2026-11-22",
       "sources": [
         {
-          "billable_total_tokens": 146466653,
+          "billable_total_tokens": 4761466,
+          "cache_creation_input_tokens": 281129,
+          "cached_input_tokens": 4463156,
+          "conversation_count": 3,
+          "estimated_cost_usd": "2.487848",
+          "input_tokens": 9628,
+          "output_tokens": 6527,
+          "reasoning_output_tokens": 1026,
+          "source": "claude",
+          "total_tokens": 4761466,
+          "unpriced_total_tokens": 0
+        },
+        {
+          "billable_total_tokens": 147049126,
           "cache_creation_input_tokens": 0,
-          "cached_input_tokens": 141913472,
-          "conversation_count": 260,
-          "estimated_cost_usd": "23.911094",
-          "input_tokens": 4443467,
-          "output_tokens": 109714,
+          "cached_input_tokens": 142489984,
+          "conversation_count": 264,
+          "estimated_cost_usd": "23.990604",
+          "input_tokens": 4448186,
+          "output_tokens": 110956,
           "reasoning_output_tokens": 2304,
           "source": "codex",
-          "total_tokens": 146466653,
+          "total_tokens": 147049126,
           "unpriced_total_tokens": 0
         }
       ],
       "totals": {
-        "billable_total_tokens": 146466653,
-        "cache_creation_input_tokens": 0,
-        "cached_input_tokens": 141913472,
-        "conversation_count": 260,
-        "estimated_cost_usd": "23.911094",
-        "input_tokens": 4443467,
-        "output_tokens": 109714,
-        "reasoning_output_tokens": 2304,
-        "total_tokens": 146466653,
+        "billable_total_tokens": 151810592,
+        "cache_creation_input_tokens": 281129,
+        "cached_input_tokens": 146953140,
+        "conversation_count": 267,
+        "estimated_cost_usd": "26.478452",
+        "input_tokens": 4457814,
+        "output_tokens": 117483,
+        "reasoning_output_tokens": 3330,
+        "total_tokens": 151810592,
         "unpriced_total_tokens": 0
       }
     }
