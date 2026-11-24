@@ -5,5 +5,5 @@
 [![tokens](assets/tokentracker/tokens.svg)](https://github.com/zaizuole/zaizuole)
 [![estimated cost](assets/tokentracker/cost.svg)](https://github.com/zaizuole/zaizuole/blob/main/data/tokentracker/summary.json)
 
-内容更新时间：2026-11-25T04:17:49+08:00。累计 62.1B tokens，估算 $30144。今日 63M tokens，估算 $14.18。
+内容更新时间：2026-11-25T04:33:17+08:00。累计 62.1B tokens，估算 $30145。今日 70.7M tokens，估算 $15.34。
 <!-- tokentracker-usage:end -->
