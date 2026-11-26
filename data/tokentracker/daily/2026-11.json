@@ -1421,43 +1421,43 @@
       "day": "2026-11-27",
       "sources": [
         {
-          "billable_total_tokens": 52739007,
+          "billable_total_tokens": 55311143,
           "cache_creation_input_tokens": 0,
-          "cached_input_tokens": 46677120,
-          "conversation_count": 683,
-          "estimated_cost_usd": "18.941998",
-          "input_tokens": 5793073,
-          "output_tokens": 268814,
-          "reasoning_output_tokens": 15385,
+          "cached_input_tokens": 49077632,
+          "conversation_count": 716,
+          "estimated_cost_usd": "19.630817",
+          "input_tokens": 5951507,
+          "output_tokens": 282004,
+          "reasoning_output_tokens": 15951,
           "source": "codex",
-          "total_tokens": 52739007,
+          "total_tokens": 55311143,
           "unpriced_total_tokens": 0
         },
         {
-          "billable_total_tokens": 3544804,
+          "billable_total_tokens": 4383168,
           "cache_creation_input_tokens": 0,
-          "cached_input_tokens": 3213824,
-          "conversation_count": 45,
+          "cached_input_tokens": 4023552,
+          "conversation_count": 52,
           "estimated_cost_usd": "0.000000",
-          "input_tokens": 267094,
-          "output_tokens": 63886,
+          "input_tokens": 283889,
+          "output_tokens": 75727,
           "reasoning_output_tokens": 0,
           "source": "cursor",
-          "total_tokens": 3544804,
-          "unpriced_total_tokens": 3544804
+          "total_tokens": 4383168,
+          "unpriced_total_tokens": 4383168
         }
       ],
       "totals": {
-        "billable_total_tokens": 56283811,
+        "billable_total_tokens": 59694311,
         "cache_creation_input_tokens": 0,
-        "cached_input_tokens": 49890944,
-        "conversation_count": 728,
-        "estimated_cost_usd": "18.941998",
-        "input_tokens": 6060167,
-        "output_tokens": 332700,
-        "reasoning_output_tokens": 15385,
-        "total_tokens": 56283811,
-        "unpriced_total_tokens": 3544804
+        "cached_input_tokens": 53101184,
+        "conversation_count": 768,
+        "estimated_cost_usd": "19.630817",
+        "input_tokens": 6235396,
+        "output_tokens": 357731,
+        "reasoning_output_tokens": 15951,
+        "total_tokens": 59694311,
+        "unpriced_total_tokens": 4383168
       }
     }
   ],
