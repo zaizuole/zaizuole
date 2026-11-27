@@ -1477,30 +1477,43 @@
       "day": "2026-11-28",
       "sources": [
         {
-          "billable_total_tokens": 30400366,
+          "billable_total_tokens": 31363949,
           "cache_creation_input_tokens": 0,
-          "cached_input_tokens": 28567296,
-          "conversation_count": 325,
-          "estimated_cost_usd": "7.513590",
-          "input_tokens": 1709230,
-          "output_tokens": 123840,
-          "reasoning_output_tokens": 7187,
+          "cached_input_tokens": 29405952,
+          "conversation_count": 345,
+          "estimated_cost_usd": "7.914469",
+          "input_tokens": 1825762,
+          "output_tokens": 132235,
+          "reasoning_output_tokens": 7521,
           "source": "codex",
-          "total_tokens": 30400366,
+          "total_tokens": 31363949,
           "unpriced_total_tokens": 0
+        },
+        {
+          "billable_total_tokens": 820197,
+          "cache_creation_input_tokens": 0,
+          "cached_input_tokens": 697344,
+          "conversation_count": 14,
+          "estimated_cost_usd": "0.000000",
+          "input_tokens": 105797,
+          "output_tokens": 17056,
+          "reasoning_output_tokens": 0,
+          "source": "cursor",
+          "total_tokens": 820197,
+          "unpriced_total_tokens": 820197
         }
       ],
       "totals": {
-        "billable_total_tokens": 30400366,
+        "billable_total_tokens": 32184146,
         "cache_creation_input_tokens": 0,
-        "cached_input_tokens": 28567296,
-        "conversation_count": 325,
-        "estimated_cost_usd": "7.513590",
-        "input_tokens": 1709230,
-        "output_tokens": 123840,
-        "reasoning_output_tokens": 7187,
-        "total_tokens": 30400366,
-        "unpriced_total_tokens": 0
+        "cached_input_tokens": 30103296,
+        "conversation_count": 359,
+        "estimated_cost_usd": "7.914469",
+        "input_tokens": 1931559,
+        "output_tokens": 149291,
+        "reasoning_output_tokens": 7521,
+        "total_tokens": 32184146,
+        "unpriced_total_tokens": 820197
       }
     }
   ],
